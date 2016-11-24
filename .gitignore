@@ -3,4 +3,3 @@ typings/
 node_modules/
 *.js.map
 **/messages/.vscode
-lunch.json
